@@ -21,7 +21,3 @@ Student and web developper in my waste time
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" width="36" height="36" alt="Nextjs" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" width="36" height="36" alt="tailwind" /></a>
 </p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AndyCanac"><img src="https://github-readme-stats.vercel.app/api?username=AndyCanac&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AndyCanac's GitHub stats" /></a>
